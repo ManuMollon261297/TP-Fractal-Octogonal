@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\manuel mollon\source\repos\tp2_g2\tp2_g2\main.c(65): warning C4101: 'ev': unreferenced local variable
+  TP2_G2.vcxproj -> C:\Users\Manuel Mollon\source\repos\TP2_G2\Debug\TP2_G2.exe
+  TP2_G2.vcxproj -> C:\Users\Manuel Mollon\source\repos\TP2_G2\Debug\TP2_G2.pdb (Partial PDB)
